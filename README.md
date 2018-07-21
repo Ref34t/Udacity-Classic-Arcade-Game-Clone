@@ -4,9 +4,9 @@ In this game you have a Player and Enemies (Bugs). The goal of the player is to 
 
 ## Demo
 
-[![demo](./images/demo.gif)](http://ref34t.github.io/udacity-classic-arcade-game-clone/)
+[![demo](./images/demo.gif)](http://mohamedrefaat.info/udacity-classic-arcade-game-clone/)
 
-> [Check it live](http://ref34t.github.io/udacity-classic-arcade-game-clone/).
+> [Check it live](http://mohamedrefaat.info/udacity-classic-arcade-game-clone/).
 
 ## Usage
 
